@@ -210,7 +210,7 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
     https://github.com/Adithya-DSAIML/SQL_Retail_Sales_Project
 ```
 3. **Run the Queries**: Use the SQL queries provided in the `retail_sales.sql` file.
-4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
+4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or to answer additional business questions.
 
 ## Author - Adithya Anand
 
